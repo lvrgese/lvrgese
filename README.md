@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LIYONS
 - 👀 I’m a computer enthusiast.
-- 🌱  I am currently an undergrad pursuing a Bachelors in Computer Science.
+- 🌱 B.Tech(Computer Science & Engineering) graduate
 - 📫 Reach me in liyonsvarghese@gmail.com
