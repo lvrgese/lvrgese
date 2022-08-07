@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LIYONS
-- 👀 I’m a computer enthusiast.
+- 👀 I’m a Game Developer.
 - 🌱 B.Tech(Computer Science & Engineering) graduate
 - 📫 Reach me in liyonsvarghese@gmail.com
