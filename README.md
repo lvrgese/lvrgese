@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
-- 🌱 I’m currently learning **Full Stack Game Development**
+- 🌱 I’m a 1 year experienced Unity developer.**
 
 - 👨‍💻 All of my projects are available at [https://liyonsvarghese.netlify.app/](https://liyonsvarghese.netlify.app/)
 
