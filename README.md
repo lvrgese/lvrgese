@@ -4,10 +4,10 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m a **Software Engineer** with 1.5 years of experience.
+- 🌱 I’m a **HJava Developer** .
 - 💻 Passionate about **Java Development**, **Spring Boot**, and **Competitive Coding**.
-- 🎯 Currently focusing on **Spring Java Development** and **Problem-Solving on CodeChef & other platforms**.
-- 💬 Ask me about **Programming, Backend Development, and Competitive Coding**.
+- 🎯 Currently focusing on **Spring Java Development** and **Backend development**.
+- 💬 Ask me about **Programming, Backend Development**.
 - 👨‍💻 Explore my projects: [My Portfolio](https://liyonsvarghese.netlify.app/)
 - 📫 Reach me at: **liyonsvarghese@gmail.com**
 
