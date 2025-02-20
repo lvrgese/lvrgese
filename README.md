@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m a **HJava Developer** .
+- 🌱 I’m a **Java Developer** .
 - 💻 Passionate about **Java Development**, **Spring Boot**, and **Competitive Coding**.
 - 🎯 Currently focusing on **Spring Java Development** and **Backend development**.
 - 💬 Ask me about **Programming, Backend Development**.
