@@ -6,7 +6,6 @@
 
 - 💻 I’m a **Java Developer** passionate about building scalable and efficient backend systems.
 - 🌱 Continuously improving my skills in **Java, Spring Boot, Full Stack Development, and Data Structures & Algorithms**.
-- 🎯 Transitioning from **Game Development** to **Java and Full Stack Development**.
 - 💬 Ask me about **Java, Backend Development, and Full Stack Technologies**.
 - 👨‍💻 Explore my projects: [My Portfolio](https://liyonsvarghese.netlify.app/)
 - 📫 Reach me at: **liyonsvarghese@gmail.com**
